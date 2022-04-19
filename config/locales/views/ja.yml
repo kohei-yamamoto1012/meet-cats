@@ -1,0 +1,5 @@
+ja:
+  defaults:
+    app_title: 'MeetCats'
+    login: 'ログイン'
+    logout: 'ログアウト'
